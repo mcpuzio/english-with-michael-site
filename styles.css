@@ -1,0 +1,50 @@
+body {
+	font-size: 18px;
+}
+
+.body-container {
+	margin-left:-20px;
+ 	margin-right:-20px;
+}
+
+.blue-section {
+	height: 32em;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(img/mike-teach-english.jpg);
+    background-position: 0% 45%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.1em 0.1em 0.1em;
+    padding: 14em 2em !important;
+}
+
+@media (min-width: 576px)
+	.jumbotron {
+    	padding: 15rem 2rem;
+	}
+
+.btn-dark-blue {
+	background-color: #4265d0;
+	color: #fff;
+}
+
+.btn-dark-blue:hover {
+	background-color: #000;
+	color: #fff;
+}
+
+i {
+	color: #4265d0;
+}
+
+.fa-check-square-o {
+	color: white;
+}
+
+.bg-blue {
+	background-color: #4265d0;
+}
