@@ -48,3 +48,27 @@ i {
 .bg-blue {
 	background-color: #4265d0;
 }
+
+.box-shadow {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#img-left {
+	float: left;
+	margin-left: 10%;
+}
+
+#img-right {
+	float: right;
+	margin-right: 15%;
+	margin-top: 8%;
+}
+
+#img-mid {
+	width: 400px;
+}
+
+#img-captions {
+	font-style: Sans-serif;
+	font-size: 1.65em;
+}
